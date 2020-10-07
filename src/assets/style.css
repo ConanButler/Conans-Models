@@ -1,0 +1,9 @@
+html,
+body {
+    background-image: linear-gradient(#ffccff, #ff99ff);
+    height: 100%;
+}
+
+.conan-nav {
+    background-color: #ffffff
+}
